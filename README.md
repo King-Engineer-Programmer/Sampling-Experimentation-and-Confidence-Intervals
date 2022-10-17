@@ -1,1 +1,2 @@
-# Sampling-Experimentation-and-Confidence-Intervals
+Pymaceutical ANOVA Tukey
+For this assignment, you’ll first apply an analysis of variance (ANOVA) model to the Pymaceutical dataset and then do a post-hoc analysis of the results by using Tukey Honest Significant Difference (HSD) to determine which drug treatments in the dataset significantly reduce tumor volume and metastasis. After you perform your analysis, you’ll write a summary of your findings.
